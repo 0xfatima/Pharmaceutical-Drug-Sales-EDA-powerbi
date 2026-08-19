@@ -1,4 +1,4 @@
-# Pharmaceutical Drug Sales — Exploratory Data Analysis (Power BI)
+# Pharmaceutical Drug Sales - Exploratory Data Analysis (Power BI)
 
 An interactive Power BI dashboard performing **Exploratory Data Analysis (EDA)** on a pharmaceutical daily sales dataset. The report analyzes sales trends, weekly patterns, and correlations across **8 drug categories** classified by [ATC codes](https://en.wikipedia.org/wiki/Anatomical_Therapeutic_Chemical_Classification_System).
 
