@@ -43,7 +43,7 @@ The Power BI report contains the following visualizations on a single interactiv
 ### Screenshots
 
 
-![Dashboard Overview](screenshots/powerbi1.png)
+![Dashboard Overview](powerbi1.png)
 
 
 ---
